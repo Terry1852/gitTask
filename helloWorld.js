@@ -1,5 +1,5 @@
-function helloWorld(){
+function gitFunction(){
 
-    console.log("Hello World!")
+    console.log("Git is awesome!")
 }
-helloWorld()
+gitFunction()
